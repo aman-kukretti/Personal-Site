@@ -1,0 +1,23 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: Purple;
+  border-style: dotted;
+  height: 2px;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: DarkSalmon;
+}
+
+#myimage {
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+}
